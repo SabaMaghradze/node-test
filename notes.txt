@@ -1,0 +1,4 @@
+1. "scripts" property in package.json defines a set of commands that can be executed using the npm command-line interface. These scripts allow you to automate various tasks related to your project, such as starting the application, running tests, building the project, and more. Scripts provide a convenient way to run complex commands without having to remember or type out the entire command each time.
+
+
+2. nodemon is a tool used in the development of Node.js applications. It monitors your project's files for changes and automatically restarts the Node.js server whenever there's a modification, saving you the effort of manually stopping and restarting the server during development.
